@@ -3,10 +3,10 @@
 申明：此爬虫基于selenium制作，仅供学习使用，如有违规操作那是你的事，和我无关
 
 ## 用到的库
-1.selenium
-2.request
-3.pyautogui
-4.re
+
+1.selenium 2.request 3.pyautogui 4.re
+
+
 
 ## 浏览器驱动
 
@@ -30,7 +30,7 @@ browserDriver = r''#填写chrome浏览器驱动位置
 
 对着搜索框右键，点击检查，即可看到class Name
 
-![Alt Text](images/2.png)
+![Alt Text](images/1.png)
 
 在第215行填入
 
@@ -44,6 +44,8 @@ searchContent = driver.find_element(By.CSS_SELECTOR,'')#去pixiv获取搜索框�
 
 1.去找下一页按钮的className
 
+![3](images/3.png)
+
 在第229行填入
 
 ```py
@@ -51,6 +53,10 @@ next_button_selector = '.sc-d98f2c-0.sc-xhhh7v-2.cCkJiq.sc-xhhh7v-1-filterProps-
 ```
 
 2.去找查看全部的按钮className
+
+
+
+![4](images/4.png)
 
 在第77行填入
 
