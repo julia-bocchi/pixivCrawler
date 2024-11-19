@@ -30,7 +30,7 @@ browserDriver = r''#填写chrome浏览器驱动位置
 
 对着搜索框右键，点击检查，即可看到class Name
 
-![Alt Text](images/1.png)
+![Alt Text](images/2.png)
 
 在第215行填入
 
