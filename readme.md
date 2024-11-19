@@ -26,7 +26,7 @@ browserDriver = r''#填写chrome浏览器驱动位置
 
 对着搜索框右键，点击检查，即可看到class Name
 
-![Alt Text](C:\Users\julia\Desktop\屏幕截图 2024-11-19 174432.png)
+![Text](C:\Users\julia\Desktop\屏幕截图 2024-11-19 174432.png)
 
 在第215行填入
 
