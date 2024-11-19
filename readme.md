@@ -2,7 +2,11 @@
 
 申明：此爬虫基于selenium制作，仅供学习使用，如有违规操作那是你的事，和我无关
 
-
+## 用到的库
+1.selenium
+2.request
+3.pyautogui
+4.re
 
 ## 浏览器驱动
 
